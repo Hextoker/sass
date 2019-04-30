@@ -1,0 +1,16 @@
+body {
+  background-color: #ddd; }
+
+.container {
+  background-color: #ec201b; }
+
+.header {
+  color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  border-radius: 10px;
+  margin: 0px auto; }
+
+.header h1:hover {
+  font-size: 60px; }
